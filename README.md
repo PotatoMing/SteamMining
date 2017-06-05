@@ -1,0 +1,1 @@
+I am managing to download data from Steam via its open API and web crawler and then dig the useful and hidden information from it
